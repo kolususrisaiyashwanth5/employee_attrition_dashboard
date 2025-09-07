@@ -1,0 +1,51 @@
+Age,Department,EducationField,MonthlyIncome,Attrition
+25,Sales,Marketing,4000,No
+28,Sales,Marketing,4200,Yes
+30,HR,Human Resources,3500,No
+32,HR,Human Resources,3700,Yes
+29,IT,Technical,6000,No
+35,IT,Technical,6500,Yes
+40,Finance,Finance,7000,No
+38,Finance,Finance,7200,Yes
+27,Sales,Marketing,4100,No
+31,Sales,Marketing,4300,Yes
+26,HR,Human Resources,3600,No
+33,HR,Human Resources,3800,Yes
+34,IT,Technical,6100,No
+36,IT,Technical,6400,Yes
+42,Finance,Finance,7100,No
+39,Finance,Finance,7300,Yes
+28,Sales,Marketing,4150,No
+29,Sales,Marketing,4250,Yes
+30,HR,Human Resources,3550,No
+31,HR,Human Resources,3650,Yes
+33,IT,Technical,6200,No
+35,IT,Technical,6300,Yes
+41,Finance,Finance,7150,No
+37,Finance,Finance,7250,Yes
+27,Sales,Marketing,4050,No
+28,Sales,Marketing,4350,Yes
+32,HR,Human Resources,3750,No
+34,HR,Human Resources,3850,Yes
+29,IT,Technical,6150,No
+36,IT,Technical,6450,Yes
+43,Finance,Finance,7200,No
+40,Finance,Finance,7400,Yes
+26,Sales,Marketing,4100,No
+29,Sales,Marketing,4300,Yes
+31,HR,Human Resources,3650,No
+33,HR,Human Resources,3750,Yes
+35,IT,Technical,6350,No
+37,IT,Technical,6500,Yes
+44,Finance,Finance,7250,No
+38,Finance,Finance,7350,Yes
+28,Sales,Marketing,4200,No
+30,Sales,Marketing,4400,Yes
+32,HR,Human Resources,3700,No
+34,HR,Human Resources,3900,Yes
+36,IT,Technical,6400,No
+39,IT,Technical,6550,Yes
+45,Finance,Finance,7300,No
+41,Finance,Finance,7450,Yes
+27,Sales,Marketing,4150,No
+29,Sales,Marketing,4350,Yes
